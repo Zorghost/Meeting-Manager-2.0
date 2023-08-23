@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['calendar_0',['Calendar',['../class_calendar.html',1,'']]],
+  ['calendar_2edart_1',['calendar.dart',['../calendar_8dart.html',1,'']]],
+  ['categories_2',['categories',['../class___chat_state.html#ad1f64a20e39524d34ef2dfcd46458498',1,'_ChatState']]],
+  ['categoryselector_3',['CategorySelector',['../class___chat_state.html#a70740eb2f8183dc3ba0111fdb1b9d073',1,'_ChatState']]],
+  ['chat_4',['Chat',['../class_chat.html',1,'']]],
+  ['chat_2edart_5',['chat.dart',['../chat_8dart.html',1,'']]],
+  ['chat_5fscreen_2edart_6',['chat_screen.dart',['../chat__screen_8dart.html',1,'']]],
+  ['chat_5fscreen_5fmeeting_2edart_7',['chat_screen_meeting.dart',['../chat__screen__meeting_8dart.html',1,'']]],
+  ['chatscreen_8',['ChatScreen',['../class_chat_screen.html',1,'ChatScreen'],['../class_chat_screen.html#aa3d7e7dedbe7c293459ec9e4508d246f',1,'ChatScreen.ChatScreen()']]],
+  ['chatscreenmeeting_9',['ChatScreenMeeting',['../class_chat_screen_meeting.html',1,'ChatScreenMeeting'],['../class_chat_screen_meeting.html#a8be16c41f54a9e46b22a93f7a32be9be',1,'ChatScreenMeeting.ChatScreenMeeting()']]],
+  ['checkconnectivity_10',['checkConnectivity',['../class_custom_parse_connectivity_provider.html#a2f66117e4427471624ea566e8249e873',1,'CustomParseConnectivityProvider']]],
+  ['connectivitystream_11',['connectivityStream',['../class_custom_parse_connectivity_provider.html#acb4818c585ef75ff49de1e1293cbb464',1,'CustomParseConnectivityProvider']]],
+  ['contactspage_12',['contactsPage',['../classcontacts_page.html',1,'']]],
+  ['contactspage_2edart_13',['contactsPage.dart',['../contacts_page_8dart.html',1,'']]],
+  ['controlleremail_14',['controllerEmail',['../class__add_contact_page_state.html#a9a7d7da183fc0bdef6133fdc555083a1',1,'_addContactPageState.controllerEmail()'],['../class___login_state.html#a5251692f29436ecedc4abd0c01b4e276',1,'_LoginState.controllerEmail()'],['../class___reset_password_page_state.html#a4fd8964e8945e581013d89d0a9246b98',1,'_ResetPasswordPageState.controllerEmail()'],['../class___sign_up_state.html#a79a5ace76c2a4e4928fe977f09881e18',1,'_SignUpState.controllerEmail()']]],
+  ['controllerpassword_15',['controllerPassword',['../class___sign_up_state.html#adbdf827139fdf1809a77f0dc6d081f20',1,'_SignUpState.controllerPassword()'],['../class___login_state.html#aacc806375469c67d1e283b883f5a7fbe',1,'_LoginState.controllerPassword()']]],
+  ['controllerusername_16',['controllerUsername',['../class___sign_up_state.html#ae57cda0ef55e545171bb4b9bf8ea1172',1,'_SignUpState.controllerUsername()'],['../class___login_state.html#a6dd4fc8dba66c9484293e5c57dec3578',1,'_LoginState.controllerUsername()']]],
+  ['createfriendrequest_17',['createFriendRequest',['../qr_scan_page_8dart.html#a9a1cf6a19b46e0f29cd523d1a11f2397',1,'qrScanPage.dart']]],
+  ['createstate_18',['createState',['../classaddevent.html#a34d210bbba355f769e9668662db2d856',1,'addevent.createState()'],['../classaddfriendstoevent.html#a027dce1db4652a6b136ece8956db9be7',1,'addfriendstoevent.createState()'],['../class_calendar.html#a79198f88cc82611f0fcc844174e3c90c',1,'Calendar.createState()'],['../class_chat.html#aaacc2570c588e335a94d6a9795a27e41',1,'Chat.createState()'],['../class_chat_screen.html#a5b816747b443839aead13b19d227204d',1,'ChatScreen.createState()'],['../class_chat_screen_meeting.html#a03d77e5f54e13b511d807ffa373f98af',1,'ChatScreenMeeting.createState()'],['../classadd_contact_page.html#afd58f1f21ec8bcaa1a9e59fb94397a31',1,'addContactPage.createState()'],['../classcontacts_page.html#ab6fb063d6eb708c5ce72011f678b1229',1,'contactsPage.createState()'],['../classqr_scan_page.html#aec0435504a7e63f840fb97662f2de82f',1,'qrScanPage.createState()'],['../classhomepage.html#ab83a215d3f84f9fb4729516ab5532f34',1,'homepage.createState()'],['../class_login.html#af4986f3d270d99db2f505a933dd26c35',1,'Login.createState()'],['../classnotifications.html#a29b07156a9ebb3448a9f05ceac47f2d7',1,'notifications.createState()'],['../classmeetinginfo.html#a1d3cf06dbda0e49adc4843d97652118e',1,'meetinginfo.createState()'],['../classprofile.html#ae5233c815d0a2c5d24a2bbc0d8372a42',1,'profile.createState()'],['../class_reset_password_page.html#a1572f22c0f454884795b75f78778ef1e',1,'ResetPasswordPage.createState()'],['../class_sign_up.html#af19ba2f78f8c34c7902fdf794b2b57f8',1,'SignUp.createState()'],['../class_splash.html#a5229fa4825217154dbb6615581398c88',1,'Splash.createState()']]],
+  ['currentscreem_19',['currentScreem',['../class__homepage_state.html#a5185e70c75fa82ca67c8e0412d4de46a',1,'_homepageState']]],
+  ['currenttab_20',['currentTab',['../class__homepage_state.html#aa63d8a262ec6f564ae48177836420e42',1,'_homepageState']]],
+  ['currentuser_21',['currentUser',['../_login_8dart.html#a83b4b5b1dd06274b4b6dda564d8df5dc',1,'Login.dart']]],
+  ['customparseconnectivityprovider_22',['CustomParseConnectivityProvider',['../class_custom_parse_connectivity_provider.html',1,'']]]
+];

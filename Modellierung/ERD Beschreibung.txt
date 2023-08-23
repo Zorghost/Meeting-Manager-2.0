@@ -1,0 +1,9 @@
+Beziehungen Beschreibung zwischen Tabelle :
+→ chat_rooms - Termine : (1 to 1) jede Termin hat ein unique chat room wo die Termin teilnehmer miteinander kommunizieren können.
+
+→ chat_rooms - messages : (1 to m ) Ein Chatroom kann mehr als eine Nachricht enthalten, aber eine eindeutige Nachricht kann nur in einem Chatroom existieren
+
+→ users - messages : (1 to m ) Ein Benutzer kann eine unbegrenzte Anzahl von Nachrichten senden, aber eine Nachricht mit einer eindeutigen ID kann nur von einem Benutzer gesendet werden
+
+→ users - termine : (n to m ) Ein Termin kann einen oder mehrere Benutzer enthalten (+ Moderator ) und ein Benutzer kann an mehr als einem Termin teilnehmen .
+Für diese Beziehung sollten wir eine Tabelle mit folgenden Attributen erstellen: id, id_user, id_termin
